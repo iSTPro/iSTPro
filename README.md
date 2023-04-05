@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47bdc3u1c86dvcit8db6k1knk53nz1yj0sg1bkykp6&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=istpro&label=Profile%20views&color=0e75b6&style=flat" alt="istpro" /> </p>
+
 
 - 🔭 I’m currently working on **iST Pro**
 
