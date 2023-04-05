@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm iST</h1>
-<h3 align="center">Here are some ideas to get you started:</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47bdc3u1c86dvcit8db6k1knk53nz1yj0sg1bkykp6&rid=giphy.gif&ct=g">
 
